@@ -1,0 +1,23 @@
+# Theme metadata
+name = "my_rose"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "rgb(251, 191, 183)"
+
+# Menu
+#menu_primary = "rgb(247, 247, 247)"
+menu_primary = "cornsilk" # "rgb(255, 255, 224)"
+menu_text = "#2f2504" ##000"
+menu_text_active = "#638371" #"#808080" ##9067C6" ##594E36" #rgb(25, 25, 25)"
+menu_title = "#000" #594E36" 
+
+# Home sections
+#home_section_odd = "rgb(255, 255, 255)"
+#home_section_even = "rgb(247, 247, 247)"
+
+# Home sections
+home_section_odd = "#FFF"
+home_section_even = "rgb(234, 242, 250)"

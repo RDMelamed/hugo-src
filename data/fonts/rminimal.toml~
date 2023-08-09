@@ -1,0 +1,12 @@
+# Font style metadata
+name = "rminimal"
+
+# Optional Google font URL
+google_fonts = "Catamaran:800|Josefin+Sans|Raleway:300|Ubuntu:500|Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
+
+# Font families
+heading_font = "Josefin Sans"
+# #Ubuntu" # "Montserrat"
+body_font = "Roboto"
+nav_font = "Catamaran" # "Raleway" #Palanquin "Josefin Sans"
+mono_font = "Roboto Mono"

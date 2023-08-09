@@ -1,0 +1,41 @@
+---
+title: The natural history of cancer
+summary: We will use health records data describing large populations of people who received various treatments, we will learn about influences on cancer onset and outcomes.
+date: "2018-04-27T00:00:00Z"
+
+tags:
+#- Deep Learning
+
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+commentable: false  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
+editable: false  # Allow
+
+image:
+  caption: 
+  focal_point: Smart
+
+links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: example
+---
+
+One way to discover influences on cancer development is by examining many people’s health histories. Drugs taken for other purposes may impact pre-cancerous tissue, which can manifest in altered rates of cancer among treated individuals. We use medical records data and apply methods from epidemiology and causal inference in order to infer the effects of other diseases, common drugs, and combinations of these factors on cancer onset.

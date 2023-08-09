@@ -1,0 +1,47 @@
+---
+# Display name
+name: Jianfeng Ke
+
+# Username (this should match the folder name)
+authors:
+- Jianfeng_Ke
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: Graduate student
+
+# Organizations/Affiliations
+organizations:
+- name: University of Massachusetts at Lowell
+  url: ""
+
+# Short bio (displayed in user profile at end of posts)
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
+interests:
+Statistics; Bioinformatics; Computer Science, Machine learning
+
+education:
+  courses:
+  - course: Phd in Computer Science 
+    institution:  UMass Lowell
+  - course: MS in Bioinformatics
+    institution:  Boston University
+
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
+
+# Organizational groups that you belong to (for People widget) ttps://github.com/rdmelamed/rdmelamed.github.io.git
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Grad Students
+
+---
+Hello, my name is Jianfeng Ke. I am a PhD student in Computer Science at UMass Lowell. I studied Math and Applied Math at Tsinghua University as an undergrad and I got my master degree at Boston University in Bioinformatics. I am interested in applying statistical or machine learning models on data to explain and also predict the occurrence of cancers and diseases. After completing my PhD, I would pursue a Postdoc position in a Comp-Bio lab and do health-related research. In my free time, I love to do some sports, especially badminton and soccer, or listen to music.
